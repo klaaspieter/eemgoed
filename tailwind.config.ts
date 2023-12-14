@@ -8,7 +8,7 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      typography: (theme) => ({
+      typography: (theme: any) => ({
         DEFAULT: {
           css: {
             "--tw-prose-headings": theme("colors.lime[900]"),
