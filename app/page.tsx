@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-leading p-24 prose dark:prose-invert">
+    <main className="flex min-h-screen flex-col items-leading p-12 prose dark:prose-invert">
       <h1>Het Eemgoed</h1>
       <h2>Dorpslandgoed van leven in verbinding</h2>
       <p>
