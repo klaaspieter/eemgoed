@@ -1,113 +1,103 @@
-import Image from 'next/image'
+import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
-        <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Get started by editing&nbsp;
-          <code className="font-mono font-bold">app/page.tsx</code>
-        </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
-          <a
-            className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{' '}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
-      </div>
+    <main className="flex min-h-screen flex-col items-leading p-24 prose dark:prose-invert">
+      <h1>Het Eemgoed</h1>
+      <h2>Dorpslandgoed van leven in verbinding</h2>
+      <p>
+        Aan de rand van Almere Oosterwold, naast de Groene Kathedraal en het
+        voedselbos van Staatsbosbeheer ligt dorpslandgoed het Eemgoed. Een
+        gemeenschap van tweeëntachtig huishoudens die leven in verbinding met de
+        natuur en met elkaar.
+      </p>
+      <ul>
+        <li>82 woningen (plaatje) </li>
+        <li>10 landschapskamers</li>
+        <li>1 gemeenschapshuis - het Eemhuis</li>
+      </ul>
+      <h3>Wonen op het Eemgoed</h3>
+      <p>
+        Er zijn verschillende redenen om op het Eemgoed te komen wonen. Voor
+        veel bewoners speelt sociale verbinding een belangrijke rol. Nog voordat
+        de eerste heipalen van het Eemgoed de grond in gingen, zochten de
+        toekomstige bewoners elkaar al op. Tijdens gezellige koffieochtenden
+        deelden ze hun dromen en plannen met elkaar.
+      </p>
+      <p>
+        In 2022 betrokken de meeste Eemgoeders hun woning en begonnen ze hun
+        plannen waar te maken. Bewoners onderhouden samen de moestuinen, de
+        boomgaarden en het stilte-eiland. Ze zoeken elkaar op in het
+        gemeenschapshuis[h][i][j] om te werken en voor de gezelligheid. Ze
+        organiseren er bijeenkomsten, workshops en feesten, of zijn druk in de
+        weer in de werkplaats of de landschapsschuur.
+      </p>
+      <p>
+        Goede tijden worden gevierd. In moeilijke tijden staan we voor elkaar
+        klaar. We helpen elkaar met kinderen van school halen, samen eten maken
+        met de groenten uit de tuin, of het fixen van een fiets of de tractor.
+        Zelfs deze website hebben we samen gemaakt. Iedereen doet wat hij of zij
+        kan. En dat is genoeg.
+      </p>
+      <h3>Ecologisch Eemgoed en Cepezed</h3>
+      <p>
+        De prachtige woningen van het Eemgoed zijn ontworpen door gerenommeerd
+        architectenbureau Cepezed. De hoge, karakteristieke glazen puien maken
+        de woningen het hele jaar door licht en behaaglijk. Door het slimme
+        ontwerp gaan de zonnepanelen die aan de tuinkant boven de ramen ‘zweven’
+        op in het design. Ecologie is een belangrijk aspect in het ontwerp van
+        het Eemgoed. De woningen zijn voorzien van warmtepompen en voldoende
+        zonnepanelen om bijna het hele jaar door energieneutraal te zijn.
+        Gezamenlijk wordt er gewerkt aan het Eemgoed als energie community van
+        de toekomst. Een zonnedak op het Eemhuis zorgt voor duurzame lokale
+        opwekking van zonnestroom om te gebruiken in de laadpalen van het
+        gezamenlijke laadplein. Op basis van het concept Local for Local werken
+        we mee aan de democratisering van de energiemarkt waar we zoveel
+        mogelijk onze eigen energie opwekken, opslaan en verbruiken. De
+        voorgevel van de huizen zal bestaan uit een groen ‘talud’, een met gras
+        ingezaaide heuvel. Deze is ten tijde van schrijven (4e kwartaal 2023)
+        nog in aanbouw. De paden langs en tussen de huizen zijn autoluw zodat er
+        genoeg rust en ruimte is om over het Eemgoed te lopen en om te spelen.
+      </p>
+      <h3>Toegang tot het Eemgoed</h3>
+      <p>
+        De 7 hectare van het Eemgoed zijn privé terrein van de bewoners. De
+        parkeerplaats, paden, landschapskamers, speeltuin en het Eemhuis zijn
+        enkel toegankelijk voor bewoners en hun gasten. In lijn met de regels
+        van Almere Oosterwold loopt rondom het Eemgoed een ‘doorwaadbare zone’
+        die toegankelijk is voor iedereen. Deze loopt vanaf de Oeverwalwegrechts
+        langs het gemeenschapshuis voorlangs de eerste rij huizen, langs de
+        kavelsloot en de twee bruggen die toegang bieden tot het voedselbos,
+        achter de landschapskamer van de laatste rij huizen weer terug naar de
+        Oeverwalweg.
+      </p>
 
-      <div className="relative flex place-items-center before:absolute before:h-[300px] before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 before:lg:h-[360px] z-[-1]">
-        <Image
-          className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
+      <h3>Het Eemgoed bezoeken</h3>
+      <p>
+        Er is veel interesse in de manier van wonen en samenleven op ons
+        dorpslandgoed. We zijn trots op onze samenleving, ons dorp in het klein
+        en leiden je graag rond. Je kunt een afspraak maken voor een rondleiding
+        over het Eemgoed. Je krijgt dan uitleg over de architectuur van de
+        huizen en het terrein, de geschiedenis van Oosterwold en over onze
+        invulling van het in Oosterwold welbekende ‘stadslandbouw’. Een
+        rondleiding begint bij Voedselbos Eemvallei en gaat te voet naar het
+        Eemgoed. De rondleiding eindigt in het gemeenschappelijk huis. Iedereen
+        is welkom om op afspraak te komen kijken. Zowel kleine gezelschappen,
+        als grotere georganiseerde groepen kunnen contact opnemen met … via … om
+        een rondleiding te boeken.
+      </p>
 
-      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Docs{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Find in-depth information about Next.js features and API.
-          </p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Learn{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Templates{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Explore starter templates for Next.js.
-          </p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Deploy{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
+      <p>
+        In verband met de privacy en het woongenot van bewoners verzoeken we
+        alle geïnteresseerde bezoekers een afspraak te maken als ze naar Eemgoed
+        willen komen. Ter zijner tijd wordt deze website uitgebreid met meer
+        informatie over Eemgoed en zijn omgeving. Waarom tijdelijk Eemgoed?
+        Misschien is de url van onze website je opgevallen,
+        ‘tijdelijk-Eemgoed.nl’. Onze woongemeenschap is jong en nog volop in
+        beweging. We zijn onze identiteit nog aan het vormgeven. Daarom tot die
+        tijd: tijdelijk-Eemgoed. Contact Voor overige vragen of verzoeken kun je
+        per e-mail contact opnemen met het Eemgoed VVE Bestuur.
+      </p>
     </main>
-  )
+  );
 }
