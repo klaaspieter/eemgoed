@@ -12,7 +12,7 @@ const config: Config = {
         DEFAULT: {
           css: {
             "--tw-prose-headings": theme("colors.lime[900]"),
-            "--tw-prose-invert-headings": theme("colors.lime[900]"),
+            "--tw-prose-invert-headings": theme("colors.stone[500]"),
           },
         },
       }),
