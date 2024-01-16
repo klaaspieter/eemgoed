@@ -8,7 +8,7 @@ Aan de rand van Almere Oosterwold, naast de Groene Kathedraal en het voedselbos 
 
 Er zijn verschillende redenen om op ‘t Eemgoed te wonen. Voor veel bewoners speelt sociale verbinding een belangrijke rol. Nog voordat de eerste heipalen de grond in gingen, zochten de toekomstige Eemgoedbewoners elkaar al op. Tijdens informatieve en gewoon gezellige koffieochtenden deelden ze hun dromen en plannen met elkaar.
 
-De bewoners beheren gezamenlijk de collectieve delen: de 7 ha landschapsgrond en het 200 m2 grote buurthuis, het zogeheten Eemhuis. Om dit te organiseren is gekozen voor een open structuur waarin zoveel mogelijk bewoners kunnen participeren. Nog voordat de bouw begon, vormden de aanstaande bewoners al ‘droomgroepen’ rond hun wensen en verwachtingen over het gezamenlijk landschap en Eemhuis. 
+De bewoners beheren gezamenlijk de collectieve delen: het 7 ha landschap met 3,5 hectare stadslandbouw en het 750 m2 grote buurthuis, het zogeheten Eemhuis. Om dit te organiseren is gekozen voor een open structuur waarin zoveel mogelijk bewoners kunnen participeren. Nog voordat de bouw begon, vormden de aanstaande bewoners al ‘droomgroepen’ rond hun wensen en verwachtingen over het gezamenlijk landschap en Eemhuis. 
 
 ### Werkgroepen en deep democracy
 
