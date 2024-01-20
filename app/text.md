@@ -8,8 +8,7 @@ Aan de rand van Almere Oosterwold, naast de Groene Kathedraal en het voedselbos 
 
 Er zijn verschillende redenen om op ‘t Eemgoed te wonen. Voor veel bewoners speelt sociale verbinding een belangrijke rol. Nog voordat de eerste heipalen de grond in gingen, zochten de toekomstige Eemgoed bewoners elkaar al op. Tijdens informatieve en gewoon gezellige koffieochtenden deelden ze hun dromen en plannen met elkaar.
 
-De bewoners beheren gezamenlijk de collectieve delen: het 7 ha landschap met 3,5 ha stadslandbouw en het 750 m2 grote buurthuis, het zogeheten Eemhuis. Om dit te organiseren is gekozen voor een open structuur waarin zoveel mogelijk bewoners kunnen participeren. Nog voordat de bouw begon, vormden de aanstaande bewoners al ‘droomgroepen’ rond hun wensen en verwachtingen over het gezamenlijk landschap en Eemhuis. 
-
+De bewoners beheren gezamenlijk de collectieve delen: het 7 ha landschap met 3,5 ha stadslandbouw en het 750 m2 grote buurthuis, het zogeheten Eemhuis. Om dit te organiseren is gekozen voor een open structuur waarin zoveel mogelijk bewoners kunnen participeren. Nog voordat de bouw begon, vormden de aanstaande bewoners al ‘droomgroepen’ rond hun wensen en verwachtingen over het gezamenlijk landschap en Eemhuis.
 
 ### Werkgroepen en deep democracy
 
@@ -21,37 +20,33 @@ Sinds de start hebben de bewoners samen het landschap ingericht, bomen geplant, 
 
 Goede tijden worden gevierd. In moeilijke tijden staan we klaar voor elkaar. We helpen elkaar met kinderen van school halen, eten koken met groenten uit de tuin, of repareren een fiets of de tractor. Ook deze website hebben we samen gemaakt. Iedereen doet wat hij of zij kan en leuk vindt om te doen. En dat is echt mooi!
 
-
 ### Energiepositieve woningen
 
 De huizen zijn ontworpen door architectenbureau Cepezed uit Delft. De hoge, karakteristieke glazen puien maken de woningen het hele jaar door licht en behaaglijk. Door het slimme ontwerp gaan de zonnepanelen die aan de tuinkant boven de ramen ‘zweven’ op in het design.
 
-De voorgevel van de huizen zal bestaan uit een groen ‘talud’; een met gras en bloemen ingezaaide heuvel. Deze is ten tijde van schrijven (1e kwartaal 2024) nog in aanbouw. De paden langs en tussen de huizen zijn autoluw zodat er genoeg rust en ruimte is om over het terrein te lopen en vrij te spelen. 
+De voorgevel van de huizen zal bestaan uit een groen ‘talud’; een met gras en bloemen ingezaaide heuvel. Deze is ten tijde van schrijven (1e kwartaal 2024) nog in aanbouw. De paden langs en tussen de huizen zijn autoluw zodat er genoeg rust en ruimte is om over het terrein te lopen en vrij te spelen.
 
 Het energiesysteem is een belangrijk aspect in het ontwerp van de woningen. Ze zijn voorzien van warmtepompen en voldoende zonnepanelen voor nul op de meter. Gemiddeld wordt er per woning zelfs meer zonne-energie opgewekt. De wens is om deze overcapaciteit in de toekomst bijvoorbeeld in te zetten voor bidirectioneel laden van elektrische auto’s, waarbij de stroom voor later gebruik wordt opgeslagen.
- 
-Het Eemgoed zet zich in om ‘Energy Community’ van de toekomst te worden, waarbij zoveel mogelijk lokaal duurzame energie wordt opgewekt en gedistribueerd. Zo realiseerden de bewoners al een zonnedak op het Eemhuis dat het gezamenlijke laadplein voedt. Op basis van het concept Local for Local draagt ‘t Eemgoed bij aan de democratisering van de energiemarkt waarbij zoveel mogelijk energie lokaal wordt opgewekt, opgeslagen en gebruikt.
 
+Het Eemgoed zet zich in om ‘Energy Community’ van de toekomst te worden, waarbij zoveel mogelijk lokaal duurzame energie wordt opgewekt en gedistribueerd. Zo realiseerden de bewoners al een zonnedak op het Eemhuis dat het gezamenlijke laadplein voedt. Op basis van het concept [Local for Local](https://energiesamen.nu/pagina/139/energiegemeenschappen-organiseren-duurzame-en-betaalbare-energie-voor-gemeenten-bedrijven-en-burgers) draagt ‘t Eemgoed bij aan de democratisering van de energiemarkt waarbij zoveel mogelijk energie lokaal wordt opgewekt, opgeslagen en gebruikt.
 
 ### Toegang tot ‘t Eemgoed
 
-De 7 hectare van ‘t Eemgoed zijn privé terrein van de bewoners. De parkeerplaats, paden, landschapskamers, speeltuin en het Eemhuis zijn daarom in eerste instantie alleen toegankelijk voor bewoners en hun gasten. 
+De 7 hectare van ‘t Eemgoed zijn privé terrein van de bewoners. De parkeerplaats, paden, landschapskamers, speeltuin en het Eemhuis zijn daarom in eerste instantie alleen toegankelijk voor bewoners en hun gasten.
 
-In lijn met de regels van Almere Oosterwold loopt langs het terrein een ‘doorwaadbare zone’ die toegankelijk is voor iedereen. Deze route wordt met bordjes aangegeven en komt uit bij de twee bruggen die toegang bieden tot het voedselbos Eemvallei Zuid (dit is een gezamenlijk initiatief van Stichting Voedselbosbouw, Stichting Het Buytenwold, Natuurboerderij Vliervelden en Staatsbosbeheer).
-
+In lijn met de regels van Almere Oosterwold loopt langs het terrein een ‘doorwaadbare zone’ die toegankelijk is voor iedereen. Deze route wordt met bordjes aangegeven en komt uit bij de twee bruggen die toegang bieden tot het voedselbos Eemvallei Zuid (dit is een [gezamenlijk initiatief](https://www.voedselbosbouw.org/projecten-link/eemvallei-zuid/) van Stichting Voedselbosbouw, Stichting Het Buytenwold, Natuurboerderij Vliervelden en Staatsbosbeheer).
 
 ### 't Eemgoed bezoeken
 
-Er is veel interesse in de manier van wonen en samenleven op een dorpslandgoed. De bewoners van ‘t Eemgoed zijn trots op hoe ze samenleven, hun dorp in het klein. Ze leiden bezoekers graag rond. 
+Er is veel interesse in de manier van wonen en samenleven op een dorpslandgoed. De bewoners van ‘t Eemgoed zijn trots op hoe ze samenleven, hun dorp in het klein. Ze leiden bezoekers graag rond.
 
-Je kunt een afspraak maken om ‘t Eemgoed te bezoeken en voor een rondleiding. Je krijgt dan uitleg over de architectuur van de huizen en het terrein, de geschiedenis van Oosterwold en over de invulling van het in Oosterwold welbekende ‘stadslandbouw’ concept. 
+Je kunt een afspraak maken om ‘t Eemgoed te bezoeken en voor een rondleiding. Je krijgt dan uitleg over de architectuur van de huizen en het terrein, de geschiedenis van Oosterwold en over de invulling van het in Oosterwold welbekende ‘stadslandbouw’ concept.
 
-Een rondleiding begint bij Voedselbos Eemvallei Zuid en gaat te voet naar ‘t Eemgoed. De rondleiding eindigt in het Eemhuis. 
+Een rondleiding begint bij Voedselbos Eemvallei Zuid en gaat te voet naar ‘t Eemgoed. De rondleiding eindigt in het Eemhuis.
 
-Iedereen is welkom om op afspraak te komen kijken. Zowel kleine gezelschappen, als grotere georganiseerde groepen kunnen contact opnemen via bezoek@eemgoed.org om een bezoek of  rondleiding te boeken. 
+Iedereen is welkom om op afspraak te komen kijken. Zowel kleine gezelschappen, als grotere georganiseerde groepen kunnen contact opnemen via [bezoek@eemgoed.org](mailto:bezoek@eemgoed.org) om een bezoek of rondleiding te boeken.
 
-In verband met de privacy en het woongenot van bewoners worden alle geïnteresseerde bezoekers verzocht een afspraak te maken als ze naar ‘t Eemgoed willen komen. 
-
+In verband met de privacy en het woongenot van bewoners worden alle geïnteresseerde bezoekers verzocht een afspraak te maken als ze naar ‘t Eemgoed willen komen.
 
 ### Waarom tijdelijk-eemgoed.nl?
 
@@ -59,5 +54,4 @@ Misschien is de url van deze website je opgevallen, ‘tijdelijk-eemgoed.nl’. 
 
 ### Contact
 
-Voor overige vragen of verzoeken kun je per e-mail contact opnemen met bestuur van VvE ‘t Eemgoed via contact@eemgoed.org. 
- 
+Voor overige vragen of verzoeken kun je per e-mail contact opnemen met bestuur van VvE ‘t Eemgoed via [contact@eemgoed.org](mailto:contact@eemgoed.org).
