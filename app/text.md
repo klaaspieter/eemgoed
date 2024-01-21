@@ -34,7 +34,7 @@ Het Eemgoed zet zich in om ‘Energy Community’ van de toekomst te worden, waa
 
 De 7 hectare van ‘t Eemgoed zijn privé terrein van de bewoners. De parkeerplaats, paden, landschapskamers, speeltuin en het Eemhuis zijn daarom in eerste instantie alleen toegankelijk voor bewoners en hun gasten.
 
-In lijn met de regels van Almere Oosterwold loopt langs het terrein een ‘doorwaadbare zone’ die toegankelijk is voor iedereen. Deze route wordt met bordjes aangegeven en komt uit bij de twee bruggen die toegang bieden tot het voedselbos Eemvallei Zuid (dit is een [gezamenlijk initiatief](https://www.voedselbosbouw.org/projecten-link/eemvallei-zuid/) van Stichting Voedselbosbouw, Stichting Het Buytenwold, Natuurboerderij Vliervelden en Staatsbosbeheer).
+In lijn met de regels van Almere Oosterwold loopt langs het terrein een ‘doorwaadbare zone’ die toegankelijk is voor iedereen. Deze route wordt met bordjes aangegeven en komt uit bij één van de twee bruggen die toegang bieden tot het voedselbos Eemvallei Zuid (dit is een [gezamenlijk initiatief](https://www.voedselbosbouw.org/projecten-link/eemvallei-zuid/) van Stichting Voedselbosbouw, Stichting Het Buytenwold, Natuurboerderij Vliervelden en Staatsbosbeheer).
 
 ### 't Eemgoed bezoeken
 
