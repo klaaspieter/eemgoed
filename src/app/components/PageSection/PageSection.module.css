@@ -1,0 +1,57 @@
+.textBlock {
+    width: 100vw;
+    background-color: rgb(254, 231, 202);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+
+
+@media (max-width: 768px) {
+  .textBlock {
+    padding: 2rem;
+  }
+}
+
+  
+.blockWrapper {
+  margin: 0 auto;
+  max-width: 700px;
+  line-height: 1.7
+}
+
+.blockWrapper section {
+  width: 100vw;
+  background-color: rgb(254, 231, 202);
+}
+
+.blockWrapper h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 200;
+  font-size: 3rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .blockWrapper h3{
+    font-size: 2.6rem;
+  }
+}
+
+
+
+.blockWrapper p {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  font-weight: 320;
+}
+
+.blockWrapper p a {
+  text-decoration: underline;
+}
+
+.blockWrapper p a:hover{
+  text-decoration: none;
+}
