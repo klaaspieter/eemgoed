@@ -13,6 +13,7 @@ export default async function Home() {
         <video
           className={styles.backgroundVideo}
           autoPlay
+          playsInline
           loop
           muted
           src="DJI_0238.MP4"
