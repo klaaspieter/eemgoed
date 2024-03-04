@@ -17,7 +17,8 @@
 .blockWrapper {
   margin: 0 auto;
   max-width: 700px;
-  line-height: 1.7
+  line-height: 1.7;
+  color: rgb(0,0,0);
 }
 
 .blockWrapper section {
