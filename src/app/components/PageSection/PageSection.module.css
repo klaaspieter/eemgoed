@@ -5,14 +5,11 @@
     padding-bottom: 5rem;
 }
 
-
-
 @media (max-width: 768px) {
   .textBlock {
     padding: 2rem;
   }
 }
-
   
 .blockWrapper {
   margin: 0 auto;
