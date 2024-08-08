@@ -18,10 +18,12 @@
   height: auto;
   z-index: -100;
   background-size: cover;
+  max-width: initial;
 }
 
 .heroVideo h1 {
   font-size: 14vh;
+  line-height: 16vh;
   color: white;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 200;
@@ -36,7 +38,6 @@
   }
   .heroVideo h2 {
     font-size: 1.4rem;
-    padding: 1rem;
   }
 }
 
