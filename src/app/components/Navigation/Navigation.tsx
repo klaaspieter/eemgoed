@@ -10,13 +10,22 @@ import {
 } from "@nextui-org/navbar";
 import { Route } from "next";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { UrlObject } from "url";
 import { usePathname } from "next/navigation";
 
 const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const pathname = usePathname();
+
+  // Close the mobile menu when path changes
+  // See: https://github.com/nextui-org/nextui/issues/2736#issuecomment-2196182286
+  useEffect(() => {
+    if (isMenuOpen) {
+      setIsMenuOpen(false);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pathname]);
 
   const menuItems: { title: string; href: UrlObject | Route }[] = [
     { title: "Home", href: "/" },
@@ -29,15 +38,22 @@ const Navigation = () => {
     { title: "Contact", href: "/contact" as Route },
   ];
 
+  const activePage = menuItems.find((item) => item.href === pathname);
+
   return (
-    <Navbar onMenuOpenChange={setIsMenuOpen} maxWidth="full">
+    <Navbar
+      isMenuOpen={isMenuOpen}
+      onMenuOpenChange={setIsMenuOpen}
+      maxWidth="full"
+    >
       <NavbarContent className="lg:hidden">
         <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
         />
+        {activePage && <NavbarMenuItem>{activePage.title}</NavbarMenuItem>}
       </NavbarContent>
 
-      <NavbarContent className="hidden lg:flex gap-4">
+      <NavbarContent className="hidden gap-4 lg:flex">
         {menuItems.map((item, index) => (
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
