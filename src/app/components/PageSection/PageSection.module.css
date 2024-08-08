@@ -1,8 +1,8 @@
 .textBlock {
-    width: 100vw;
-    background-color: rgb(254, 231, 202);
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+  width: 100vw;
+  background-color: rgb(254, 231, 202);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 @media (max-width: 768px) {
@@ -10,12 +10,12 @@
     padding: 2rem;
   }
 }
-  
+
 .blockWrapper {
   margin: 0 auto;
   max-width: 700px;
   line-height: 1.7;
-  color: rgb(0,0,0);
+  color: rgb(0, 0, 0);
 }
 
 .blockWrapper section {
@@ -24,7 +24,7 @@
 }
 
 .blockWrapper h3 {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: 200;
   font-size: 3rem;
   line-height: 1.2;
@@ -32,12 +32,10 @@
 }
 
 @media (max-width: 768px) {
-  .blockWrapper h3{
+  .blockWrapper h3 {
     font-size: 2.6rem;
   }
 }
-
-
 
 .blockWrapper p {
   margin-bottom: 1rem;
@@ -50,6 +48,6 @@
   text-decoration: underline;
 }
 
-.blockWrapper p a:hover{
+.blockWrapper p a:hover {
   text-decoration: none;
 }

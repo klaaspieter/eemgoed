@@ -12,19 +12,21 @@ import { Route } from "next";
 import Link from "next/link";
 import { useState } from "react";
 import { UrlObject } from "url";
+import { usePathname } from "next/navigation";
 
 const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const pathname = usePathname();
 
   const menuItems: { title: string; href: UrlObject | Route }[] = [
     { title: "Home", href: "/" },
-    { title: "Landschap", href: "/" },
-    { title: "Eemhuis", href: "/" },
-    { title: "Duurzaamheid & Energie", href: "/" },
-    { title: "Woningen", href: "/" },
-    { title: "Organisatie", href: "/" },
-    { title: "Geschiedenis", href: "/" },
-    { title: "Contact", href: "/" },
+    { title: "Landschap", href: "/landschap" as Route },
+    { title: "Eemhuis", href: "/eemhuis" as Route },
+    { title: "Duurzaamheid & Energie", href: "/duurzaamheid-energie" as Route },
+    { title: "Woningen", href: "/woningen" as Route },
+    { title: "Organisatie", href: "/organisatie" as Route },
+    { title: "Geschiedenis", href: "/geschiedenis" as Route },
+    { title: "Contact", href: "/contact" as Route },
   ];
 
   return (
@@ -39,13 +41,7 @@ const Navigation = () => {
         {menuItems.map((item, index) => (
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
-              color={
-                index === 2
-                  ? "primary"
-                  : index === menuItems.length - 1
-                    ? "danger"
-                    : "foreground"
-              }
+              className={`link ${pathname == item.href ? "text-lime-700" : ""}`}
               href={item.href}
             >
               {item.title}
@@ -57,14 +53,8 @@ const Navigation = () => {
         {menuItems.map((item, index) => (
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
-              color={
-                index === 2
-                  ? "primary"
-                  : index === menuItems.length - 1
-                    ? "danger"
-                    : "foreground"
-              }
-              className="w-full"
+              color={pathname === item.href ? "primary" : "foreground"}
+              className={`link w-full ${pathname == item.href ? "text-sandy-beach" : ""}`}
               href={item.href}
             >
               {item.title}

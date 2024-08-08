@@ -1,6 +1,4 @@
 import styles from "./page.module.css";
-import { MDXRemote } from "next-mdx-remote/rsc";
-import { mdxComponents } from "./mdx-components";
 
 import { getContent } from "./content";
 
@@ -8,7 +6,7 @@ export default async function Home() {
   const article = await getContent("home");
 
   return (
-    <main className={styles.home}>
+    <>
       <section className={styles.heroVideo}>
         <video
           className={styles.backgroundVideo}
@@ -27,12 +25,12 @@ export default async function Home() {
         </div>
       </section>
 
-      <MDXRemote
-        source={article.content}
-        components={{
-          ...mdxComponents,
-        }}
-      />
-    </main>
+      <article className="bg-sandy-beach py-10">
+        <div
+          className="prose mx-auto"
+          dangerouslySetInnerHTML={{ __html: article }}
+        />
+      </article>
+    </>
   );
 }

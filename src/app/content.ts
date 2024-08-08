@@ -1,12 +1,11 @@
 import fs from "fs/promises";
 import path from "path";
-import matter from "gray-matter";
+import { micromark } from "micromark";
 import React from "react";
 
 export const getContent = React.cache(async (slug: string) => {
-  const rawContent = await readFile(`/content/${slug}.mdx`);
-  const { data: frontmatter, content } = matter(rawContent);
-  return { frontmatter, content };
+  const rawContent = await readFile(`/content/${slug}.md`);
+  return micromark(rawContent);
 });
 
 function readFile(localPath: string) {
