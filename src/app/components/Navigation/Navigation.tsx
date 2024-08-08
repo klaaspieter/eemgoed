@@ -54,7 +54,7 @@ const Navigation = () => {
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
               color={pathname === item.href ? "primary" : "foreground"}
-              className={`link w-full ${pathname == item.href ? "text-sandy-beach" : ""}`}
+              className={`link w-full ${pathname == item.href ? "text-lime-700" : ""}`}
               href={item.href}
             >
               {item.title}
