@@ -41,11 +41,7 @@ const Navigation = () => {
   const activePage = menuItems.find((item) => item.href === pathname);
 
   return (
-    <Navbar
-      isMenuOpen={isMenuOpen}
-      onMenuOpenChange={setIsMenuOpen}
-      maxWidth="full"
-    >
+    <Navbar isMenuOpen={isMenuOpen} onMenuOpenChange={setIsMenuOpen}>
       <NavbarContent className="lg:hidden">
         <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
@@ -53,7 +49,7 @@ const Navigation = () => {
         {activePage && <NavbarMenuItem>{activePage.title}</NavbarMenuItem>}
       </NavbarContent>
 
-      <NavbarContent className="hidden gap-4 lg:flex">
+      <NavbarContent className="hidden gap-4 lg:flex" justify="center">
         {menuItems.map((item, index) => (
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link
