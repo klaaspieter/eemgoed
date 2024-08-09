@@ -4,8 +4,9 @@ const nextConfig = {
     outputFileTracingIncludes: {
       "/*": ["./content/**/*"],
     },
-    typedRoutes: true
+    typedRoutes: true,
   },
+  output: "export",
 };
 
 module.exports = nextConfig;

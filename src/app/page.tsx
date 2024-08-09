@@ -2,8 +2,8 @@ import styles from "./page.module.css";
 
 import { getContent } from "./content";
 
-export default async function Home() {
-  const article = await getContent("home");
+export default async function Home(props) {
+  const article = await getContent("home.md");
 
   return (
     <>
@@ -25,7 +25,7 @@ export default async function Home() {
         </div>
       </section>
 
-      <article className="bg-sandy-beach py-10 px-4 sm:px-0">
+      <article className="bg-sandy-beach px-4 py-10 sm:px-0">
         <div
           className="prose mx-auto"
           dangerouslySetInnerHTML={{ __html: article }}
