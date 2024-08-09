@@ -6,7 +6,6 @@ const nextConfig = {
     },
     typedRoutes: true,
   },
-  output: "export",
 };
 
 module.exports = nextConfig;
