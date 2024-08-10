@@ -25,7 +25,7 @@ export default async function Home(props) {
         </div>
       </section>
 
-      <article className="bg-sandy-beach px-4 py-10 sm:px-0">
+      <article className="px-4 py-10 sm:px-0">
         <div
           className="prose mx-auto"
           dangerouslySetInnerHTML={{ __html: article }}

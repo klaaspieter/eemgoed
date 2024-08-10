@@ -11,7 +11,7 @@ export default async function Page({ params }) {
   const article = await getContent(`${params.slug}.md`);
 
   return (
-    <article className="bg-sandy-beach py-10">
+    <article className="py-10">
       <div
         className="prose mx-auto"
         dangerouslySetInnerHTML={{ __html: article }}

@@ -4,4 +4,6 @@ In 2017 ontmoette een groot aantal toekomstige Eemgoedbewoners elkaar voor het e
 
 In mei 2018 bleek dat de woningen fors duurder werden dan oorspronkelijk gepland; de helft van de mensen die zich hadden ingeschreven, haakte af. De overblijvers besloten maandelijkse Eemcafé’s te organiseren in Buitencentrum Almeerderhout om elkaar beter te leren kennen. Er ontstonden droom- en werkgroepen rond uiteenlopende onderwerpen. En er werden bezoekjes afgelegd aan vergelijkbare initiatieven, zoals BO1 in Amsterdam en Geworteld wonen in Rijswijk. In november 2019 tekenden veel toekomstige bewoners de koopcontracten en in april 2020 ging de eerste paal de grond in.
 
+![groep](/images/groep-winter.jpg)
+
 Corona, ontwikkelingen op de bouwmarkt en prijsstijgingen hebben er mede toe geleid dat de bouw van ’t Eemgoed in 2024 nog niet is voltooid. De oplevering van de eerste woningen liet tot december 2021 op zich wachten. Uiteindelijk zijn de taluds van de woningen nog steeds niet afgebouwd en zijn het landschap, het parkeerterrein en de wandelpaden nog niet opgeleverd.

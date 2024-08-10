@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "sandy-beach": "#fee7ca",
+        "sandy-beach": "rgba(254,231,202,.7)",
       },
     },
     fontFamily: {

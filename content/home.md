@@ -9,6 +9,8 @@ De woningen van ’t Eemgoed staan op een terrein van 7 hectare, dat grenst aan
 het voedselbos Eemvallei Zuid. Aan de ene kant is er uitzicht op het
 Kathedralenbos, aan de andere op de windmolens van Windpark Zeewolde.
 
+![alt](/images/bloemen-met-woningen.jpg)
+
 Bewoners van ’t Eemgoed kiezen bewust voor leven in verbinding met de aarde en
 met elkaar. In het landschap wordt nergens, ook niet in de privétuinen,
 chemische middelen gebruikt en staat het bevorderen van de biodiversiteit

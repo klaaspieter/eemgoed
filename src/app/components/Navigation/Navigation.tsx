@@ -41,11 +41,7 @@ const Navigation = () => {
   const activePage = menuItems.find((item) => item.href === pathname);
 
   return (
-    <Navbar
-      isMenuOpen={isMenuOpen}
-      onMenuOpenChange={setIsMenuOpen}
-      className="font-serif"
-    >
+    <Navbar isMenuOpen={isMenuOpen} onMenuOpenChange={setIsMenuOpen}>
       <NavbarContent className="lg:hidden">
         <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
