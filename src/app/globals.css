@@ -71,6 +71,8 @@ nav ul li:first-child {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 1.3rem;
   font-weight: 300;
+  border-right: 1px solid saddlebrown;
+  padding-right: 1em;
 }
 
 nav li {
