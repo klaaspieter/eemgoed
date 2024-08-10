@@ -13,6 +13,9 @@ module.exports = {
         "sandy-beach": "#fee7ca",
       },
     },
+    fontFamily: {
+      serif: ["ui-serif", "Georgia", "Times New Roman", "Times", "serif"],
+    },
   },
   darkMode: "class",
   plugins: [nextui(), require("@tailwindcss/typography")],

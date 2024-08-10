@@ -1,3 +1,5 @@
+# Organisatie
+
 Bewoners van ’t Eemgoed hebben naast hun individuele woning ook veel gezamenlijk bezit. Het Eemhuis is van iedereen, evenals de kavelsloot, het parkeerterrein, de wandelpaden, de fietsenstallingen en alle gezamenlijke grond.
 
 Alle bewoners zijn aangesloten bij de Vereniging van Eigenaren; deze heeft een bestuur en een huishoudelijk reglement dat in de Algemene Leden Vergadering is vastgesteld. De ALV komt tenminste één keer per jaar bij elkaar of vaker, als er besluiten moeten worden genomen rond het gezamenlijke bezit. De reglementen voor het beheer van het landschap en het Eemhuis bijvoorbeeld zijn in een ALV vastgesteld.

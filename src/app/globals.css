@@ -33,3 +33,24 @@ a {
     color-scheme: dark;
   }
 }
+
+article .prose h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 200;
+  font-size: 3rem;
+  line-height: 1.2;
+  margin-bottom: 3rem;
+  margin-top: 2rem;
+  letter-spacing: 0.01em;
+}
+
+article .prose {
+  color: black;
+}
+
+article .prose p {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  font-weight: 320;
+}

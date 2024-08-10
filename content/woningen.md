@@ -1,3 +1,5 @@
+# Woningen
+
 ’t Eemgoed heeft uitsluitend koopwoningen. Alle huizen zijn gelijkvloers. De oppervlaktes lopen uiteen van 60 tot 150 m2, de indeling varieert. De ruimtes aan de achterzijde zijn licht en hoog. Van 3.60 m. lopen de woningen af naar 2.70 m. aan de voorkant. De gehele achterwand van de woning bestaat uit geïsoleerde ramen, uitkijkend op de privétuin en de gemeenschappelijke gronden daarachter.
 
 De woningen van ’t Eemgoed staan in acht enigszins gebogen rijen achter elkaar. Het ontwerp is van Sant en Solange Ruyter, in samenwerking met architectenbureau Cepezed. Aan de voorkant heeft elke woning een beschutte patio in de aarden talud. In het ontwerp zijn de taluds zo gebouwd dat de woningen aan die zijde opgaan in het groene landschap. Helaas heeft de bouw van de taluds door omstandigheden veel vertraging opgelopen.

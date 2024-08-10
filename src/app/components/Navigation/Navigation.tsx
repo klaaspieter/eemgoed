@@ -28,7 +28,7 @@ const Navigation = () => {
   }, [pathname]);
 
   const menuItems: { title: string; href: UrlObject | Route }[] = [
-    { title: "Home", href: "/" },
+    { title: "Eemgoed", href: "/" },
     { title: "Landschap", href: "/landschap" as Route },
     { title: "Eemhuis", href: "/eemhuis" as Route },
     { title: "Duurzaamheid & Energie", href: "/duurzaamheid-energie" as Route },
@@ -41,7 +41,11 @@ const Navigation = () => {
   const activePage = menuItems.find((item) => item.href === pathname);
 
   return (
-    <Navbar isMenuOpen={isMenuOpen} onMenuOpenChange={setIsMenuOpen}>
+    <Navbar
+      isMenuOpen={isMenuOpen}
+      onMenuOpenChange={setIsMenuOpen}
+      className="font-serif"
+    >
       <NavbarContent className="lg:hidden">
         <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
@@ -49,7 +53,10 @@ const Navigation = () => {
         {activePage && <NavbarMenuItem>{activePage.title}</NavbarMenuItem>}
       </NavbarContent>
 
-      <NavbarContent className="hidden gap-4 lg:flex" justify="center">
+      <NavbarContent
+        data-justify={"space-between"}
+        className="hidden w-full justify-between gap-4 lg:flex"
+      >
         {menuItems.map((item, index) => (
           <NavbarMenuItem key={`${item}-${index}`}>
             <Link

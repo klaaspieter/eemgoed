@@ -1,3 +1,5 @@
+# Contact
+
 Het adres van ’t Eemgoed is: Oeverwalhof, 1349 JE Almere  
 Email: [contact@eemgoed.org](mailto:contact@eemgoed.org)
 
