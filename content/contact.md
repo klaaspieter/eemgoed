@@ -7,7 +7,7 @@ De Oeverwalhof, het gebied tussen de Oeverwalweg en de kavelsloot, is eigen terr
 
 Langs de rand van de Oeverwalhof loopt een wandelpad dat wel open is voor iedereen. De route gaat over het voetpad vanaf het parkeerterrein van Staatsbosbeheer bij voedselbos Eemvallei Zuid via een van de bruggetjes richting de Oeverwalweg en staat met bordjes aangegeven. In de buurt van ’t Eemgoed is géén parkeergelegenheid.
 
-![wandelpad](/images/bordje-wandelpad.jpeg)
-
 Geïnteresseerd in een bezoek aan ’t Eemgoed? Eemgoedbewoners zijn trots op hun project en ontvangen je graag met een georganiseerde rondleiding op een zaterdagmiddag. Je wordt ontvangen in het Eemhuis en vervolgens meegenomen over het terrein onder begeleiding van een gids. In totaal duurt de rondleiding ongeveer 2 uur. Je kunt je aanmelden [met dit formulier](http://www.google.com) voor één van de volgende data:
 31 augustus, 14 september, 28 september, 12 oktober, 26 oktober, 2 november, 16 november, 30 november. Meer informatie: [bezoek@eemgoed.org](mailto:bezoek@eemgoed.org).
+
+![wandelpad](/images/bordje-wandelpad.jpeg)
