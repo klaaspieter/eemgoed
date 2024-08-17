@@ -63,6 +63,13 @@ article .prose p {
   font-weight: 320;
 }
 
+@media (max-width: 768px) {
+  main article .prose {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
 nav {
   font-weight: 300;
 }
