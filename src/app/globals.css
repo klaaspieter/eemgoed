@@ -52,8 +52,10 @@ article .prose {
 article img {
   margin-left: -10%;
   max-width: 120%;
-  border-left: 1px dashed saddlebrown;
+  border-left: 1px solid saddlebrown;
   padding-left: 0.5rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 article .prose p {
