@@ -1,10 +1,28 @@
+.heroImage .headings {
+  height: 50vh;
+}
 
 .heroVideo {
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100vw;
-  height: 100vh;
+  height: 92vh;
+  overflow: hidden;
+  margin-top: -4rem;
+}
+
+.heroImage {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 92vh;
+  overflow: hidden;
+  margin-top: -4rem;
+  background: url("/images/moestuin-en-huizen.jpeg") no-repeat center center;
 }
 
 .backgroundVideo {
@@ -16,35 +34,42 @@
   min-height: 100%;
   width: auto;
   height: auto;
-  z-index: -100;
   background-size: cover;
+  max-width: initial;
 }
 
-.heroVideo h1 {
-  font-size: 14vh;
-  color: white;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-weight: 200;
-  margin-top: 15vh;
-  text-align: center;
+.heroVideo h1,
+.heroVideo h2,
+.heroImage h1,
+.heroImage h2 {
+  position: relative;
+  z-index: 1;
+}
 
+.heroVideo h1,
+.heroImage h1 {
+  font-size: 14vh;
+  line-height: 16vh;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 200;
+  text-align: center;
 }
 
 @media (max-width: 768px) {
-  .heroVideo h1 {
+  .heroVideo h1,
+  .heroImage h1 {
     text-align: center;
     font-size: 8vh;
   }
   .heroVideo h2 {
     font-size: 1.4rem;
-    padding: 1rem;
   }
 }
 
 .heroVideo h2 {
   text-align: center;
   color: white;
+  font-size: 1.5rem;
   font-weight: 200;
-
 }
-

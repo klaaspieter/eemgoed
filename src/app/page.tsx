@@ -1,15 +1,13 @@
 import styles from "./page.module.css";
-import { MDXRemote } from "next-mdx-remote/rsc";
-import { mdxComponents } from "./mdx-components";
 
 import { getContent } from "./content";
 
-export default async function Home() {
-  const article = await getContent("home");
+export default async function Home(props) {
+  const article = await getContent("home.md");
 
   return (
-    <main className={styles.home}>
-      <section className={styles.heroVideo}>
+    <>
+      {/* <section className={styles.heroVideo}>
         <video
           className={styles.backgroundVideo}
           autoPlay
@@ -25,14 +23,19 @@ export default async function Home() {
             1&nbsp;gemeenschappelijk huis
           </h2>
         </div>
+      </section> */}
+      <section className={styles.heroImage}>
+        <div className={styles.headings}>
+          <h1>Eemgoed</h1>
+        </div>
       </section>
 
-      <MDXRemote
-        source={article.content}
-        components={{
-          ...mdxComponents,
-        }}
-      />
-    </main>
+      <article className="px-4 py-10 sm:px-0">
+        <div
+          className="prose mx-auto"
+          dangerouslySetInnerHTML={{ __html: article }}
+        />
+      </article>
+    </>
   );
 }
