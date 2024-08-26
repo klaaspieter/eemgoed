@@ -16,5 +16,5 @@ export const getContentNames = React.cache(async () => {
 export const getContent = React.cache(async (slug: string) => {
   const filePath = path.join(contentPath, `${slug}`);
   const rawContent = await fs.readFile(filePath, "utf8");
-  return micromark(rawContent);
+  return micromark(rawContent, { allowDangerousHtml: true });
 });
