@@ -10,7 +10,7 @@ het voedselbos Eemvallei Zuid. Aan de ene kant is er uitzicht op het
 Kathedralenbos, aan de andere op de windmolens van Windpark Zeewolde.
 
 Bewoners van ’t Eemgoed kiezen bewust voor leven in verbinding met de aarde en
-met elkaar. In het landschap wordt nergens, ook niet in de privétuinen,
+met elkaar. In het landschap worden nergens, ook niet in de privétuinen,
 chemische middelen gebruikt en staat het bevorderen van de biodiversiteit
 voorop. In de omgang met de buren zijn samenwerking, delen en omkijken naar
 elkaar vanzelfsprekend.
