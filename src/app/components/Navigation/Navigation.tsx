@@ -3,7 +3,6 @@
 import {
   Navbar,
   NavbarContent,
-  NavbarItem,
   NavbarMenu,
   NavbarMenuItem,
   NavbarMenuToggle,
@@ -35,13 +34,17 @@ const Navigation = () => {
     { title: "Woningen", href: "/woningen" as Route },
     { title: "Organisatie", href: "/organisatie" as Route },
     { title: "Geschiedenis", href: "/geschiedenis" as Route },
-    { title: "Contact", href: "/contact" as Route },
+    { title: "Contact & Rondleidingen", href: "/contact" as Route },
   ];
 
   const activePage = menuItems.find((item) => item.href === pathname);
 
   return (
-    <Navbar isMenuOpen={isMenuOpen} onMenuOpenChange={setIsMenuOpen}>
+    <Navbar
+      maxWidth="xl"
+      isMenuOpen={isMenuOpen}
+      onMenuOpenChange={setIsMenuOpen}
+    >
       <NavbarContent className="lg:hidden">
         <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
