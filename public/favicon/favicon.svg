@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>favicon</title>
+    <defs>
+        <path d="M58,83 C58.2622695,82.6600647 70.9289362,77.3267314 96,67 L151,54 L151,133 L60.6873779,133 C59.712049,133.000277 58.878753,132.296997 58.7151477,131.335487 C54.8129488,108.22788 54.5747073,92.1160265 58,83 Z" id="path-1"></path>
+        <filter x="-5.2%" y="-6.3%" width="110.5%" height="112.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feOffset dx="-7" dy="-7" in="shadowSpreadInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#4E7C0F" x="0" y="0" width="180" height="180"></rect>
+        <path d="M165.580046,53.7206062 C97.8600153,68.0710718 64,80.1642031 64,90 C64,100 63.6666667,114.333333 63,133 L11,133 C21.6666667,119.666667 30,107 36,95 C45,77 68.0134571,67.4799292 84,64 C99.5640597,60.6120364 126.755476,54.8512458 165.57425,46.7176284 L165.574256,46.7176541 C167.110903,46.3956836 168.61761,47.3803736 168.939581,48.9170208 C168.979753,49.1087465 169,49.304111 169,49.5 C169,51.5380527 167.573826,53.298115 165.580047,53.7206141 Z" id="Triangle" fill="#FFFFFF"></path>
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <path stroke="#FFFFFF" stroke-width="5" d="M148.5,57.1597948 L148.5,130.5 L61.109719,130.5 C57.4579647,108.712275 57.041679,93.3338042 60.1434229,84.4253659 C61.7006982,83.6201746 74.0715714,78.7349196 96.7683983,69.3872643 L148.5,57.1597948 Z" stroke-linejoin="square"></path>
+        </g>
+    </g>
+</svg>
