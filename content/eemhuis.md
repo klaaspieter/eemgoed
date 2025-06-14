@@ -1,6 +1,6 @@
 # Eemhuis
 
-![schoenen](/images/eemhuis-schoenen.jpg)
+![Een foto van het Eemhuis](/images/eemhuis.jpeg)
 
 Het gemeenschappelijke gebouw dat aan het begin van de Oeverwalhof staat, wordt het Eemhuis genoemd. Het 750 m2 grote pand, uitgevoerd in glas, staal en hout, werd in mei 2023 nagenoeg casco opgeleverd. De bewoners hebben het vervolgens met eigen materiaal, creativiteit en menskracht ingericht. Verf en tegels die over waren uit hun eigen huizen, zijn gebruikt voor de afwerking. Voor de inrichting zijn meubels gedoneerd of zelf gemaakt. In de grote centrale ruimte is eigenhandig een prachtige bar gebouwd. De groene tegeltjes waarmee de bar is afgewerkt maakten oorspronkelijk deel uit van het Italiaanse paviljoen in de Floriade en zijn door Eemgoedbewoners daar zelf van afgebikt voor hergebruik.
 

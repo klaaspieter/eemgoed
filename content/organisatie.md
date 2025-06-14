@@ -1,6 +1,6 @@
 # Organisatie
 
-![groep overleg](/images/groep-overleg.jpg)
+![een foto van een beslisboom](/images/organisatie-beslisboom.jpg)
 
 Bewoners van ’t Eemgoed hebben naast hun individuele woning ook veel gezamenlijk bezit. Het Eemhuis is van iedereen, evenals de kavelsloot, het parkeerterrein, de wandelpaden, de fietsenstallingen en alle gezamenlijke grond.
 

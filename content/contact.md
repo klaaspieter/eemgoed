@@ -1,6 +1,6 @@
 # CONTACT & RONDLEIDINGEN
 
-![wandelpad](/images/bordje-wandelpad.jpeg)
+![Een foto van een bordje om het wandelpad aan te geven. De achtergrond is groene natuur met af en toe wat kleurige bloemetjes. Op het bordje is de tekst “Wandelpad” geschilderd met aan weerzijde een icoon van een wandelaar](/images/contact-bordje-wandelpad.jpeg)
 
 Het adres van ’t Eemgoed is: Oeverwalhof, 1349 JE Almere<br />Email: [contact@eemgoed.org](mailto:contact@eemgoed.org)
 

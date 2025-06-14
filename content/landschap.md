@@ -1,6 +1,6 @@
 # Landschap
 
-![slootwerkers](/images/slootwerkers.jpeg)
+![Een foto van onze 4 bijenkasten op een rij. De voorste is groen, dan oranje, rood (met een orange bloem linksonder) en de iets kleinere vierde die ook rood is](/images/landschap-bijen.jpeg)
 
 De gemeente Almere verwacht van de bewoners van Oosterwold dat zij een bijdrage leveren aan de voedselvoorziening. Concreet wordt van grondeigenaren geëist dat zij 50% van hun grond bestemmen voor stadslandbouw. Op ’t Eemgoed hebben de bewoners hun 50% samengebracht om grote gemeenschappelijke moestuinen, boomgaarden en voedselbosjes te kunnen maken. Ook de sloten die het terrein omgeven, de parkeerplaats en de paden tussen de huizen zijn gemeenschappelijk bezit en worden door de bewoners gezamenlijk onderhouden. Dit vraagt inzet van iedereen.
 

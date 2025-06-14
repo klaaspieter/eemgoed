@@ -1,6 +1,6 @@
 # Duurzaamheid & Energie
 
-![lantaarnpaal](/images/lantaarnpaal.jpg)
+![Een foto van onze zelfgemaakte lantaarnpalen genomen in het halfdonker met de lampen aan. De foto's is van schijn onderaf de lantaarnpaal genomen waardoor één rechthoekige lamp volledige zichtbaar is en één gedeeltelijk achter de paal verdwijnt. De achtergrond is een schemirige blauw lucht](/images/duurzaamheid-lantaarnpaal.jpeg)
 
 Alle huizen op ’t Eemgoed, inclusief het Eemhuis, zijn goed geïsoleerd en hebben zonnepanelen. De panelen op de huizen hebben een overstek aan de achterkant, waardoor binnenshuis de zon in de zomer gedeeltelijk wordt geweerd. De huizen zijn voorzien van vloerverwarming en worden verwarmd en gekoeld met een efficiënte warmtepomp die werkt op lucht en water.
 
