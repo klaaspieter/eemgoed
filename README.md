@@ -1,4 +1,7 @@
-# Eemgoed one-pager
+# eemgoed.nl
+
+> [!NOTE]  
+> Moved to https://codeberg.org/klaaspieter/eemgoed/
 
 ## Installation
 
